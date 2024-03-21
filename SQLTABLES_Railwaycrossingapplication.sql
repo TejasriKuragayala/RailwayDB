@@ -38,5 +38,5 @@ insert into Users ('name','email','password','userType')
 values ('Atlas','Atlas123@amazon.com','Atlas123','admin')
 
 insert into Users ('name','email','password','userType')
-values ('Java','Java123@amazon.com','Java123','admin')
+values ('Java','Java123@amazon.com','Java123','admins')
 
